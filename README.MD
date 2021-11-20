@@ -5,4 +5,4 @@ git checkout -b <nome da branch>
 ex: git checkout -b altconf
 
 voltar para a branch principal
-ex: git checkout master
+ex: git checkout main
